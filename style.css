@@ -1,0 +1,34 @@
+body{
+    background-color: #737373;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    direction: ltr;
+}
+
+fieldset{
+    background-color: #474747;
+    height: auto;
+    width: 300px;
+    box-shadow:0 0 15px 10px#ff0000;
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+    text-align: center;
+    border: solid;
+    border-radius: 10px;
+    border-color: #9900ff;
+}
+
+.title{
+    font-size: 25px;
+    color: #ff8811;
+
+}
+
+.cursor{
+    font-size: medium;
+    color: #0bd700;
+    text-align: center;
+}
