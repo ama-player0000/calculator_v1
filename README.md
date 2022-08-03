@@ -1,4 +1,4 @@
-<p align="center"><h2> calculator | ماشین حساب </h2></p>
+<p align="center"><h2> calculator 1 | ماشین حساب 1</h2></p>
 
 <center><img src="https://s25.picofile.com/file/8451117318/Calculater.jpg" width="300" height="300"></center>
 
@@ -35,3 +35,4 @@ html , css
 توان = **
 محاسبه کند
 </p>
+<p align="center">سازنده: امیر محمد ابوالفتحی </p>
