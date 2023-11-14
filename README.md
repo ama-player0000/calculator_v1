@@ -35,4 +35,4 @@ html , css
 توان = **
 محاسبه کند
 </p>
-<p align="center">سازنده: امیر محمد ابوالفتحی </p>
+<p align="center">سازنده: ama player</p>
